@@ -15,7 +15,7 @@ permissions:
   contents: read
 
 env:
-  S3_BUCKET_NAME: be-9-GoToGuy91
+  S3_BUCKET_NAME: be-9-gotoguy91
 
 jobs:
   build:
